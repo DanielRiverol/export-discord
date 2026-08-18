@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- Elementos de la Interfaz ---
-st.title("🚀 Exportador de Usuarios")
+st.title("🚀 Exportador de Usuarios de Discord")
 st.markdown("Descarga la lista de usuarios de tu servidor de Discord en formato CSV.")
 
 # Intentamos obtener el token de los Secrets de Streamlit
